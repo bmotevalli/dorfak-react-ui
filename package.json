@@ -3,6 +3,9 @@
   "version": "1.0.0",
   "description": "reusable components and services to be used across my web apps. based on material ui.",
   "main": "index.js",
+  "publishConfig": {
+    "@bmotevalli:registry": "https://npm.pkg.github.com"
+  },
   "scripts": {
     "test": "exit 0"
   },
