@@ -1,0 +1,24 @@
+{
+  "name": "@bmotevalli/dorfak-react-ui",
+  "version": "1.0.0",
+  "description": "reusable components and services to be used across my web apps. based on material ui.",
+  "main": "index.js",
+  "scripts": {
+    "test": "exit 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bmotevalli/dorfak-react-ui.git"
+  },
+  "keywords": [
+    "ui",
+    "components",
+    "services"
+  ],
+  "author": "Ben Motevalli",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/bmotevalli/dorfak-react-ui/issues"
+  },
+  "homepage": "https://github.com/bmotevalli/dorfak-react-ui#readme"
+}
